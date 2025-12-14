@@ -4,7 +4,7 @@
 
 ## 开发者
 
-- [onexru](https://github.com/onexru)
+- [yima8966216](https://github.com/yima8966216)
 - [雾创岛](https://www.tr0.cn)
 - [打赏赞助](https://www.cv0.cn/Index/Reward.php)
 
@@ -18,7 +18,7 @@
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/onexru/oneimg.git
+git clone https://github.com/yima8966216/oneimg.git
 cd oneimg
 ```
 
